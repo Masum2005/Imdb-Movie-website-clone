@@ -1,0 +1,28 @@
+.container {
+  background-color: rgba(128, 128, 128, 0.433);
+  border-radius: 20px;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+.cast_profile img{
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+
+.cast_name {
+  color: white;
+  font-size: 1.2rem;
+  font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+.cast_character {
+  font-size: 1rem;
+}
+
+.cast_details {
+  padding-bottom: 15px;
+}
